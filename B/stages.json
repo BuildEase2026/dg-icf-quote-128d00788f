@@ -1,0 +1,136 @@
+{
+ "job": "Two-storey garage in Nudura ICF - Option B - Room in the roof",
+ "revision": "Q01",
+ "stages": [
+  {
+   "n": 1,
+   "title": "Raft slab",
+   "desc": "Indicative 200 RC raft with a 600 x 450 thickened edge under the ICF, on DPM and 150 hardcore (engineer to design).",
+   "files": [
+    {
+     "glb": "stage-1.glb",
+     "part": null,
+     "label": null,
+     "bytes": 4172
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Nudura ICF walls",
+   "desc": "Nudura 6in Standard on Nudura Bond, 4,858 x 5,061 outside - webs on the grid from both corners, NO stack joints; eaves walls 5 courses to the plate, gables raked to the roof with the gable courses flying out over the corners; garage door, pedestrian door(s), window and the raked feature gable opening with its sill closure. Every form as it would be laid.",
+   "files": [
+    {
+     "glb": "stage-2.glb",
+     "part": null,
+     "label": null,
+     "bytes": 261940
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "First floor",
+   "desc": "PS9-type 225 metal-web joists @400 spanning front to rear, top-hung on ledgers off the two ICF gables, 22 P5 deck; FFL 2,656, garage ceiling 2,396.",
+   "files": [
+    {
+     "glb": "stage-3.glb",
+     "part": null,
+     "label": null,
+     "bytes": 74008
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Roof structure",
+   "desc": "Loose 47 x 147 C24 rafters @400 on a 100 x 320 GL24h glulam ridge bearing in the gables, 55.0 deg, gable ladders (indicative).",
+   "files": [
+    {
+     "glb": "stage-4.glb",
+     "part": null,
+     "label": null,
+     "bytes": 31952
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Roof membrane + battens",
+   "desc": "Breathable roofing membrane and 25 x 50 treated battens.",
+   "files": [
+    {
+     "glb": "stage-5.glb",
+     "part": null,
+     "label": null,
+     "bytes": 8860
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Tiles, fascia, soffit + rainwater goods",
+   "desc": "Concrete interlocking tiles with dry ridge and verge, PVC-u fascia, soffit and 22 x 225 barge boards, half-round gutters and downpipes.",
+   "files": [
+    {
+     "glb": "stage-6.glb",
+     "part": null,
+     "label": null,
+     "bytes": 9256
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Windows + doors",
+   "desc": "Anthracite (RAL 7016) window, composite door(s), the raked aluminium feature screen with its cill, and the sectional garage door (supplier).",
+   "files": [
+    {
+     "glb": "stage-7.glb",
+     "part": null,
+     "label": null,
+     "bytes": 21024
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "title": "Opening tapes",
+   "desc": "Tremco CPG illbruck ME220 external and ME110 internal window membranes round every opening (garage door excluded).",
+   "files": [
+    {
+     "glb": "stage-8.glb",
+     "part": null,
+     "label": null,
+     "bytes": 6060
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "title": "Dryvit 500 render",
+   "desc": "Dryvit 500 thin-coat render (Tremco CPG), 7.5 build-up, direct to the Nudura EPS, into the reveals to the frames.",
+   "files": [
+    {
+     "glb": "stage-9.glb",
+     "part": null,
+     "label": null,
+     "bytes": 8804
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "title": "External steel stair",
+   "desc": "Contemporary galvanised + powder-coated steel stair to the room-in-roof door at FFL: 13 x 200 / 12 x 250, landing 1,300 x 1,100 (indicative - fabricator / engineer).",
+   "files": [
+    {
+     "glb": "stage-10.glb",
+     "part": null,
+     "label": null,
+     "bytes": 19748
+    }
+   ]
+  }
+ ]
+}

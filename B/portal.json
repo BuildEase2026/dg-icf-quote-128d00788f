@@ -1,0 +1,403 @@
+{
+ "portal": "BuildEase ICF Project Environment",
+ "project": {
+  "client": "Dortech Direct (James, MD) via Andy Claridge, Tremco CPG",
+  "job": "Two-storey garage in Nudura ICF - Option B - Room in the roof",
+  "number_prefix": "DG-B",
+  "status": "QUOTATION",
+  "revision": "Q01",
+  "model_title": "DG-B Two-storey garage in Nudura ICF - Option B - Room in the roof - Quotation Q01"
+ },
+ "default_view": "stage-10",
+ "views": [
+  {
+   "id": "stage-1",
+   "kind": "stage",
+   "n": 1,
+   "title": "Raft slab",
+   "desc": "Indicative 200 RC raft with a 600 x 450 thickened edge under the ICF, on DPM and 150 hardcore (engineer to design).",
+   "focus": false
+  },
+  {
+   "id": "stage-2",
+   "kind": "stage",
+   "n": 2,
+   "title": "Nudura ICF walls",
+   "desc": "Nudura 6in Standard on Nudura Bond, 4,858 x 5,061 outside - webs on the grid from both corners, NO stack joints; eaves walls 5 courses to the plate, gables raked to the roof with the gable courses flying out over the corners; garage door, pedestrian door(s), window and the raked feature gable opening with its sill closure. Every form as it would be laid.",
+   "focus": false
+  },
+  {
+   "id": "stage-3",
+   "kind": "stage",
+   "n": 3,
+   "title": "First floor",
+   "desc": "PS9-type 225 metal-web joists @400 spanning front to rear, top-hung on ledgers off the two ICF gables, 22 P5 deck; FFL 2,656, garage ceiling 2,396.",
+   "focus": false
+  },
+  {
+   "id": "stage-4",
+   "kind": "stage",
+   "n": 4,
+   "title": "Roof structure",
+   "desc": "Loose 47 x 147 C24 rafters @400 on a 100 x 320 GL24h glulam ridge bearing in the gables, 55.0 deg, gable ladders (indicative).",
+   "focus": false
+  },
+  {
+   "id": "stage-5",
+   "kind": "stage",
+   "n": 5,
+   "title": "Roof membrane + battens",
+   "desc": "Breathable roofing membrane and 25 x 50 treated battens.",
+   "focus": false
+  },
+  {
+   "id": "stage-6",
+   "kind": "stage",
+   "n": 6,
+   "title": "Tiles, fascia, soffit + rainwater goods",
+   "desc": "Concrete interlocking tiles with dry ridge and verge, PVC-u fascia, soffit and 22 x 225 barge boards, half-round gutters and downpipes.",
+   "focus": false
+  },
+  {
+   "id": "stage-7",
+   "kind": "stage",
+   "n": 7,
+   "title": "Windows + doors",
+   "desc": "Anthracite (RAL 7016) window, composite door(s), the raked aluminium feature screen with its cill, and the sectional garage door (supplier).",
+   "focus": false
+  },
+  {
+   "id": "stage-8",
+   "kind": "stage",
+   "n": 8,
+   "title": "Opening tapes",
+   "desc": "Tremco CPG illbruck ME220 external and ME110 internal window membranes round every opening (garage door excluded).",
+   "focus": false
+  },
+  {
+   "id": "stage-9",
+   "kind": "stage",
+   "n": 9,
+   "title": "Dryvit 500 render",
+   "desc": "Dryvit 500 thin-coat render (Tremco CPG), 7.5 build-up, direct to the Nudura EPS, into the reveals to the frames.",
+   "focus": false
+  },
+  {
+   "id": "stage-10",
+   "kind": "stage",
+   "n": 10,
+   "title": "External steel stair",
+   "desc": "Contemporary galvanised + powder-coated steel stair to the room-in-roof door at FFL: 13 x 200 / 12 x 250, landing 1,300 x 1,100 (indicative - fabricator / engineer).",
+   "focus": false
+  },
+  {
+   "id": "elev-N",
+   "kind": "elevation",
+   "n": 10,
+   "title": "North elevation",
+   "dir": [
+    0.0,
+    0.12,
+    -1.0
+   ],
+   "desc": "Complete structure seen from the north."
+  },
+  {
+   "id": "elev-S",
+   "kind": "elevation",
+   "n": 10,
+   "title": "South elevation",
+   "dir": [
+    0.0,
+    0.12,
+    1.0
+   ],
+   "desc": "Complete structure seen from the south."
+  },
+  {
+   "id": "elev-E",
+   "kind": "elevation",
+   "n": 10,
+   "title": "East elevation",
+   "dir": [
+    1.0,
+    0.12,
+    0.0
+   ],
+   "desc": "Complete structure seen from the east."
+  },
+  {
+   "id": "elev-W",
+   "kind": "elevation",
+   "n": 10,
+   "title": "West elevation",
+   "dir": [
+    -1.0,
+    0.12,
+    0.0
+   ],
+   "desc": "Complete structure seen from the west."
+  }
+ ],
+ "stages": [
+  {
+   "n": 1,
+   "title": "Raft slab",
+   "desc": "Indicative 200 RC raft with a 600 x 450 thickened edge under the ICF, on DPM and 150 hardcore (engineer to design).",
+   "files": [
+    {
+     "glb": "stage-1.glb",
+     "part": null,
+     "label": null,
+     "bytes": 4172
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Nudura ICF walls",
+   "desc": "Nudura 6in Standard on Nudura Bond, 4,858 x 5,061 outside - webs on the grid from both corners, NO stack joints; eaves walls 5 courses to the plate, gables raked to the roof with the gable courses flying out over the corners; garage door, pedestrian door(s), window and the raked feature gable opening with its sill closure. Every form as it would be laid.",
+   "files": [
+    {
+     "glb": "stage-2.glb",
+     "part": null,
+     "label": null,
+     "bytes": 261940
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "First floor",
+   "desc": "PS9-type 225 metal-web joists @400 spanning front to rear, top-hung on ledgers off the two ICF gables, 22 P5 deck; FFL 2,656, garage ceiling 2,396.",
+   "files": [
+    {
+     "glb": "stage-3.glb",
+     "part": null,
+     "label": null,
+     "bytes": 74008
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Roof structure",
+   "desc": "Loose 47 x 147 C24 rafters @400 on a 100 x 320 GL24h glulam ridge bearing in the gables, 55.0 deg, gable ladders (indicative).",
+   "files": [
+    {
+     "glb": "stage-4.glb",
+     "part": null,
+     "label": null,
+     "bytes": 31952
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Roof membrane + battens",
+   "desc": "Breathable roofing membrane and 25 x 50 treated battens.",
+   "files": [
+    {
+     "glb": "stage-5.glb",
+     "part": null,
+     "label": null,
+     "bytes": 8860
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Tiles, fascia, soffit + rainwater goods",
+   "desc": "Concrete interlocking tiles with dry ridge and verge, PVC-u fascia, soffit and 22 x 225 barge boards, half-round gutters and downpipes.",
+   "files": [
+    {
+     "glb": "stage-6.glb",
+     "part": null,
+     "label": null,
+     "bytes": 9256
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Windows + doors",
+   "desc": "Anthracite (RAL 7016) window, composite door(s), the raked aluminium feature screen with its cill, and the sectional garage door (supplier).",
+   "files": [
+    {
+     "glb": "stage-7.glb",
+     "part": null,
+     "label": null,
+     "bytes": 21024
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "title": "Opening tapes",
+   "desc": "Tremco CPG illbruck ME220 external and ME110 internal window membranes round every opening (garage door excluded).",
+   "files": [
+    {
+     "glb": "stage-8.glb",
+     "part": null,
+     "label": null,
+     "bytes": 6060
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "title": "Dryvit 500 render",
+   "desc": "Dryvit 500 thin-coat render (Tremco CPG), 7.5 build-up, direct to the Nudura EPS, into the reveals to the frames.",
+   "files": [
+    {
+     "glb": "stage-9.glb",
+     "part": null,
+     "label": null,
+     "bytes": 8804
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "title": "External steel stair",
+   "desc": "Contemporary galvanised + powder-coated steel stair to the room-in-roof door at FFL: 13 x 200 / 12 x 250, landing 1,300 x 1,100 (indicative - fabricator / engineer).",
+   "files": [
+    {
+     "glb": "stage-10.glb",
+     "part": null,
+     "label": null,
+     "bytes": 19748
+    }
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "icf",
+   "title": "ICF drawings",
+   "note": "The ICF general arrangement, the wall elevations and a section.",
+   "zip": {
+    "file": "downloads/DG-B ICF drawings.zip",
+    "bytes": 304581,
+    "count": 4
+   },
+   "docs": [
+    {
+     "id": "DG-B-GA-01",
+     "title": "Garage ICF General Arrangement",
+     "file": "docs/icf/DG-B-GA-01 Garage ICF General Arrangement.pdf",
+     "pages": 1,
+     "thumb": "thumbs/DG-B-GA-01.png",
+     "bytes": 57733,
+     "number": "DG-B-GA-01",
+     "view": "stage-1",
+     "view_opts": {}
+    },
+    {
+     "id": "DG-B-EL-01",
+     "title": "North and South Elevations",
+     "file": "docs/icf/DG-B-EL-01 North and South Elevations.pdf",
+     "pages": 1,
+     "thumb": "thumbs/DG-B-EL-01.png",
+     "bytes": 126265,
+     "number": "DG-B-EL-01",
+     "view": "elev-N",
+     "view_opts": {}
+    },
+    {
+     "id": "DG-B-EL-02",
+     "title": "East and West Elevations",
+     "file": "docs/icf/DG-B-EL-02 East and West Elevations.pdf",
+     "pages": 1,
+     "thumb": "thumbs/DG-B-EL-02.png",
+     "bytes": 104339,
+     "number": "DG-B-EL-02",
+     "view": "elev-E",
+     "view_opts": {}
+    },
+    {
+     "id": "DG-B-SE-01",
+     "title": "Section A-A",
+     "file": "docs/icf/DG-B-SE-01 Section A-A.pdf",
+     "pages": 1,
+     "thumb": "thumbs/DG-B-SE-01.png",
+     "bytes": 91049,
+     "number": "DG-B-SE-01",
+     "view": "stage-10",
+     "view_opts": {}
+    }
+   ]
+  },
+  {
+   "id": "quote",
+   "title": "Take-off",
+   "note": "Quantities from the model by package (ICF our supply; the rest in good faith).",
+   "zip": {
+    "file": "downloads/DG-B Take-off.zip",
+    "bytes": 4763,
+    "count": 1
+   },
+   "docs": [
+    {
+     "id": "DG-B-QS-01",
+     "title": "Take-off",
+     "file": "docs/quote/DG-B-QS-01 Take-off.pdf",
+     "pages": 2,
+     "thumb": "thumbs/DG-B-QS-01.png",
+     "bytes": 6598,
+     "number": "DG-B-QS-01",
+     "view": "stage-10",
+     "view_opts": {}
+    }
+   ]
+  }
+ ],
+ "focus": null,
+ "isolate_stages": false,
+ "toggles": [
+  {
+   "label": "Dryvit 500 render",
+   "materials": [
+    "Dryvit 500 render (white)"
+   ],
+   "default": true,
+   "stages": [
+    9,
+    10
+   ]
+  },
+  {
+   "label": "Opening tapes",
+   "materials": [
+    "illbruck ME220*",
+    "illbruck ME110*"
+   ],
+   "default": true,
+   "stages": [
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "label": "Roof tiles",
+   "materials": [
+    "Concrete interlocking tile*"
+   ],
+   "default": true,
+   "stages": [
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  }
+ ],
+ "download_all": {
+  "file": "downloads/DG-B Two-storey garage in Nudura ICF - Option B - Room in the roof - Quotation Q01.zip",
+  "bytes": 309362,
+  "count": 5,
+  "title": "Download everything"
+ }
+}
